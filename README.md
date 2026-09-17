@@ -50,8 +50,8 @@ An archive of old Cydia packages for legacy iOS 5 and iOS 6.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kzeyz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150">
+<img src="https://github-stats-extended.vercel.app/api?username=kzexyz&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzeyz&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kzexyz&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150">
 
 </div>
