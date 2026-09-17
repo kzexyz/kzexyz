@@ -38,6 +38,14 @@ A modding toolkit for Elden Ring on Windows.
 
 ---
 
+## Other projects
+
+[![Kazexyz's Repo](https://img.shields.io/badge/Kazexyz%27s_Repo-181717?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/kzexyz/repo)
+
+An archive of old Cydia packages for legacy iOS 5 and iOS 6.
+
+---
+
 ## GitHub stats
 
 <div align="center">
