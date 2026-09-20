@@ -1,6 +1,6 @@
-# Hi, I'm Kane
+#  𝙺𝚊𝚗𝚎
 
-I make tools and mods for games I like.
+Hello, I make tools and mods for games I like.
 
 Currently working on **Elden Ring Toolkit**.
 
